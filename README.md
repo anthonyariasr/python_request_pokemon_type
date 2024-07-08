@@ -1,6 +1,6 @@
 # python_request_pokemon_type
 
-this projects uses the requests library + colored.py to show the Pokémon types of a given Pokémon. This project uses the PokéApi https://pokeapi.co/
+This projects uses the requests library + colored.py to show the Pokémon types of a given Pokémon. This project uses the PokéApi https://pokeapi.co/
 
 in order to use this project you can have to 
 
